@@ -694,6 +694,25 @@ h2 { font-size: clamp(2.3rem, 5.5vw, 4.5rem); font-weight: 800; }
 
 .origin-copy b { color: var(--neon); }
 
+.x-post {
+  margin: 2.2rem 0 0;
+  max-width: 550px;
+}
+
+.x-post figcaption {
+  margin: 0 0 0.85rem;
+  color: var(--gold);
+  font-family: var(--font-d);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.x-post .twitter-tweet {
+  margin: 0 !important;
+}
+
 .brand-line {
   margin: 1.6rem 0 0;
   font-family: var(--font-d);

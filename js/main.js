@@ -1,6 +1,6 @@
 const SI = {
   contract: "3yM6w93HMUZSHrMSGVPR2cW4Wvubvkscht1541i6pump",
-  twitter: "https://x.com/SuperIguana_"
+  twitter: "https://x.com/SuperiguanaX"
 };
 
 const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
